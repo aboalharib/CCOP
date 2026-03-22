@@ -1,0 +1,70 @@
+{
+  "device_id": "terranode_alkhor_01",
+  "device_type": "TerraNode",
+  "sensors": [
+    {
+      "sensor_name": "CO Sensor",
+      "parameter": "CO",
+      "sensor_serial": "CO-2026-0001",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "SEN0469",
+      "parameter": "NH3",
+      "sensor_serial": "NH3-2026-0002",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "SEN0471",
+      "parameter": "NO2",
+      "sensor_serial": "NO2-2026-0003",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "SEN0470",
+      "parameter": "SO2",
+      "sensor_serial": "SO2-2026-0004",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "SEN0475",
+      "parameter": "HF",
+      "sensor_serial": "HF-2026-0005",
+      "install_date": "2026-01-15",
+      "lifespan_days": 547,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "SEN0465",
+      "parameter": "O2",
+      "sensor_serial": "O2-2026-0006",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "O3 Sensor",
+      "parameter": "O3",
+      "sensor_serial": "O3-2026-0007",
+      "install_date": "2026-01-15",
+      "lifespan_days": 547,
+      "replacement_count": 0
+    },
+    {
+      "sensor_name": "H2S Sensor",
+      "parameter": "H2S",
+      "sensor_serial": "H2S-2026-0008",
+      "install_date": "2026-01-15",
+      "lifespan_days": 730,
+      "replacement_count": 0
+    }
+  ]
+}
